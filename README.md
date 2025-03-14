@@ -1,5 +1,5 @@
 # Decision-Trees
-# Decision Tree Algorithm from Scratch
+Implementation of Naive Bayes classifier from scratch
 
 ## Overview
 This repository contains an implementation of the **Decision Tree algorithm** built from scratch using Python, without relying on `scikit-learn`. The project aims to provide a clear understanding of how decision trees work by implementing key components such as information gain, entropy, and tree splitting.
